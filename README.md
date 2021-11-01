@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DintearWork
-- 👀 I’m interested in web-design
-- 🌱 I’m currently learning JavaScript and PHP
+- 👋 Hi, I’m Denis Vyzulin
+- 👀 I'm full-stack web-developer
+- 🌱 And I'm currently learning JavaScript and Django/Python
 
 <!---
 DintearWork/DintearWork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
